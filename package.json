@@ -1,0 +1,28 @@
+{
+  "name": "com-moduscreate-plugins-echoswift",
+  "version": "0.0.1",
+  "description": "Modus Create Demo Cordova Swift3 Plugin",
+  "cordova": {
+    "id": "com-moduscreate-plugins-echoswift",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ModusCreateOrg/cordova-swift3-plugin-example.git"
+  },
+  "keywords": [
+    "cordova",
+    "demo",
+    "modus",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Modus Create",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModusCreateOrg/cordova-swift3-plugin-example/issues"
+  },
+  "homepage": "https://github.com/ModusCreateOrg/cordova-swift3-plugin-example#readme"
+}
